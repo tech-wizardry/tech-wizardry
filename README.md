@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋🏻 Hi There!
+👋🏻 Hi There! <br>
 🔭 I’m currently creating Opportunities
 
 ## 🌐 Socials:
